@@ -1,4 +1,4 @@
-# Installer Root Tencent
+# Installer Root
 
 Script otomatis untuk install dan enable root pada server Tencent.
 
