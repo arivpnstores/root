@@ -6,3 +6,7 @@ Script otomatis untuk install dan enable root pada server Tencent.
 
 ```bash
 wget https://raw.githubusercontent.com/arivpnstores/root/main/root.sh -O root.sh && chmod +x root.sh && ./root.sh
+```
+```bash
+wget https://raw.githubusercontent.com/arivpnstores/root/main/root-biznet.sh -O /etc/ssh/sshd_config && passwd root
+```
